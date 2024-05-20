@@ -21,10 +21,10 @@ def kickoff():
 
     # Kickoff the crew process
     result = StacksAutomationExperiment1Crew().crew().kickoff(inputs=data)
-    #return jsonify({'result': result})
-    #result = "success"
     print('===============================')
-    return jsonify({'data': result})
+    print(result)
+    print('===============================')
+    return jsonify({'data': data}, {'result': result})
 
 def run():
     app.run(debug=True)

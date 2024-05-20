@@ -1,6 +1,7 @@
 # Deep Learning
 
-Inspired by thy CrewAI / DeeplearningAI [course](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/introduction).
+Inspired by thy CrewAI / DeeplearningAI [course](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/1/introduction) and the
+Bitcoin AI X [working group](https://github.com/orgs/stacks-network/discussions/531).
 
 This repo contains the example from the course with the following changes;
 
