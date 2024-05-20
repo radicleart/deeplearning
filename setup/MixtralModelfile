@@ -1,0 +1,10 @@
+FROM mixtral-8x7b-32768
+
+# Set parameters
+
+PARAMETER temperature 0.1
+PARAMETER stop Result
+
+# Set custom message
+
+SYSTEM """Hi I'm Mixtral"""

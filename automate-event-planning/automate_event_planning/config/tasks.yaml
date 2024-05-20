@@ -1,0 +1,25 @@
+venue_task:
+  description: >
+    Find a venue in {event_city} that meets criteria for {event_topic} for client {client_id}.
+  expected_output: >
+    All the details of a specifically chosen venue you found to accommodate the event.
+
+logistics_task:
+  description: >
+    Coordinate catering and 
+    equipment for an event 
+    with {expected_participants} participants 
+    on {tentative_date}. 
+    Be sure to summarise your requests to the LLM to avoid exceeding {max_tokens} tokens
+  expected_output: >
+    Confirmation of all logistics arrangements including catering and equipment setup.
+
+marketing_task:
+  description: >
+    Promote the {event_topic} 
+    aiming to engage at least 
+    {expected_participants} potential attendees.
+    Be sure to summarise your requests to the LLM to avoid exceeding {max_tokens} tokens
+  expected_output: >
+    Report on marketing activities 
+    and attendee engagement formatted as markdown.

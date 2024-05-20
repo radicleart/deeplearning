@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "automate_event_planning"
+version = "0.1.0"
+description = ""
+authors = ["Mike Cohen <mjoecohen@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<=3.13"
+crewai = {extras = ["tools"], version = "^0.30.11"}
+ipython = "^8.24.0"
+langchain = "^0.1.20"
+pydantic = "^2.7.1"
+
+[tool.poetry.scripts]
+automate_event_planning = "automate_event_planning.main:run"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
