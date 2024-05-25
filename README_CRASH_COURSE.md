@@ -6,9 +6,10 @@
 
 Essential Tools;
 
-- [10m: GitHub Tutorial - Beginner's Training Guide](https://www.youtube.com/watch?v=iv8rSLsi1xohttps://www.youtube.com/watch?v=iv8rSLsi1xo)
+- [10m: GitHub Tutorial - Beginner's Training Guide @x1.5](https://www.youtube.com/watch?v=iv8rSLsi1xohttps://www.youtube.com/watch?v=iv8rSLsi1xo)
 - [Download Visual Studio Code](https://code.visualstudio.com/download)
-- [A free Git client for Windows and Mac](https://www.sourcetreeapp.com/)
+- [SourceTree: A free Git client for Windows and Mac](https://www.sourcetreeapp.com/)
+- [10m SourceTree tutorial @x2](https://www.youtube.com/watch?v=FIabco-p_nY)
 
 Python;
 
