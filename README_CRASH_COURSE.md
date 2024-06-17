@@ -18,6 +18,12 @@ Python;
 - [8m: Python Poetry in 8 Minutes](https://www.youtube.com/watch?v=Ji2XDxmXSOM)
   - Python package/dependency management
 
+#### Step 1b Jupyter Notebook
+
+Install Anaconda to use Jupyter Notebook
+
+- [Jupyter Notebook In 10 Minutes](https://www.youtube.com/watch?v=H9Iu49E6Mxs)
+
 ### Step 2: Ollama
 
 - [12m: Using Ollama To Build a FULLY LOCAL "ChatGPT Clone"](https://www.youtube.com/watch?v=rIRkxZSn-A8)
